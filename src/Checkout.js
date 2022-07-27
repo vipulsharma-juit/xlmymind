@@ -12,14 +12,14 @@ function Checkout() {
     return (
         <div className="checkout">
         
-        <div className="checkout__left">
+        <div className="checkout__left">                          
 
             
 
    
                 <h2 className="checkout__title">YOUR  SHOPPING CART</h2>
             
-            {cart.map(item =>(
+            {cart.map(item =>( 
                 <Card
                     title={item.title}
                     img={item.image}
