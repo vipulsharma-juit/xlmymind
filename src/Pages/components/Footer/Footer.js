@@ -19,8 +19,8 @@ function Footer() {
         <div className='footer-section'>
         <div className='footer-section-header'>Get in Touch</div>
             <div className='section-items'>
-                {/* <div className='section-item'><FontAwesomeIcon icon="envelope"/> xlmymind@gmail.com</div>
-                <div className='section-item'><FontAwesomeIcon icon="phone"/> 9717830336</div> */}
+                <div className='section-item'><FontAwesomeIcon icon="envelope"/> xlmymind@gmail.com</div>
+                <div className='section-item'><FontAwesomeIcon icon="phone"/> 9717830336</div>
             </div>
         </div>
         <div className='footer-section'>
