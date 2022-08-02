@@ -16,6 +16,7 @@ function Products() {
           <div className='product-category'>Age 6-8</div>
           <div className='product-category'>Age 8-10</div>
           <div className='product-category'>Age 10-12</div>
+          <div className='product-category'>Age 12-14</div>
         </div>
         <div className='books-category'>
           <div className='books-category-header'>Times Tables</div>
